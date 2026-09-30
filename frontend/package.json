@@ -1,5 +1,6 @@
 {
-  "name": "perfume-frontend",
+  "name": "price-checker-frontend",
+  "private": true,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
